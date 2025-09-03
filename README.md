@@ -44,9 +44,4 @@ I actively solve problems on [LeetCode](https://leetcode.com/), and I've started
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgadhiya1807&layout=compact&theme=calm)
-
----
-
 Thanks for stopping by! 😊
